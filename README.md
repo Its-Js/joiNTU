@@ -1,1 +1,1 @@
-The final version of the android studio is in the master branch, version3.0.
+PLEASE TAKE NOTE: The final version of the android studio is in the master branch, version3.0.
